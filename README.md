@@ -3,7 +3,8 @@
 I write low-level Windows systems code in **C++** — reverse engineering,
 debuggers, and figuring out how closed things work from the outside in — plus
 **Java** on the application side, and a long habit of **game modding**, which
-is where most of this started.
+is where most of this started: Source Engine (Source SDK 2013) mods and
+Steamworks SDK integration work.
 
 ### What I'm building
 
@@ -24,6 +25,10 @@ the open source terminal coding agent.
 **[leverage-ai](https://github.com/nikolas-chambers/leverage-ai)** — a
 multi-provider AI orchestrator routing across Groq, Cloudflare, OpenRouter,
 Gemini, DeepSeek, Mistral, Qwen, and HuggingFace, with caching and memory.
+
+**[source-sdk-2013](https://github.com/nikolas-chambers/source-sdk-2013)** —
+Valve's Source Engine SDK, the base for C++ game modding work (HL2, HL2:DM,
+TF2) and Steamworks SDK integration.
 
 ---
 
