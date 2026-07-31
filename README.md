@@ -27,8 +27,8 @@ multi-provider AI orchestrator routing across Groq, Cloudflare, OpenRouter,
 Gemini, DeepSeek, Mistral, Qwen, and HuggingFace, with caching and memory.
 
 **[source-sdk-2013](https://github.com/nikolas-chambers/source-sdk-2013)** —
-Valve's Source Engine SDK, the base for C++ game modding work (HL2, HL2:DM,
-TF2) and Steamworks SDK integration.
+my own build of Valve's Source SDK 2013, the base for C++ game modding work
+(HL2, HL2:DM, TF2) and Steamworks SDK integration.
 
 ---
 
