@@ -1,6 +1,6 @@
 ## Hi, I'm Nik 👋
 
-**[Check out my site →](https://nikolas-chambers.github.io/nikolas-chambers-site/)**
+**[Check out my GitHub Pages developer portfolio →](https://nikolas-chambers.github.io/nikolas-chambers-site/)**
 
 I write low-level Windows systems code in **C++** — reverse engineering,
 debuggers, and figuring out how closed things work from the outside in — plus
