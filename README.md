@@ -18,6 +18,13 @@ flat C plugin API modeled on Olly's, with its own
 **[SALEM!](https://nikolas-chambers.github.io/salem-site/)** — a tour guide to
 Massachusetts' Witch City.
 
+**[opencode](https://github.com/nikolas-chambers/opencode)** — my own build of
+the open source terminal coding agent.
+
+**[leverage-ai](https://github.com/nikolas-chambers/leverage-ai)** — a
+multi-provider AI orchestrator routing across Groq, Cloudflare, OpenRouter,
+Gemini, DeepSeek, Mistral, Qwen, and HuggingFace, with caching and memory.
+
 ---
 
 <table>
