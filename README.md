@@ -2,9 +2,9 @@
 
 I write low-level Windows systems code in **C++** — reverse engineering,
 debuggers, and figuring out how closed things work from the outside in — plus
-**Java** on the application side, and a long habit of **game modding**, which
-is where most of this started: Source Engine (Source SDK 2013) mods and
-Steamworks SDK integration work.
+**Java** on the application side, **Python** for scripting and tooling, and a
+long habit of **game modding**, which is where most of this started: Source
+Engine (Source SDK 2013) mods and Steamworks SDK integration work.
 
 ### What I'm building
 
