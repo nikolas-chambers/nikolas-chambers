@@ -2,7 +2,8 @@
 
 **[shaman-cli](https://github.com/nikolas-chambers/shaman-cli)** — a coding agent for your terminal, written in C++.
 One native binary with a full-screen TUI, web and desktop GUIs, an HTTP API, MCP, LSP, plugins and free models out
-of the box. A from-scratch rewrite of the opencode CLI.
+of the box. Heavily inspired by opencode and Claude Code, and by what the
+community needs from a coding agent.
 
 **[open-debugger](https://github.com/nikolas-chambers/open-debugger)** — an OllyDbg-shaped Windows debugger on top
 of DbgEng: disassembly, registers, stack and dump panes, an Olly-verb command bar, and a named pipe so a script can
@@ -11,6 +12,15 @@ drive the same live session a person is sitting in front of. Flat C plugin API w
 [plugins](https://github.com/nikolas-chambers/open-debugger-plugins).
 
 **[SALEM!](https://nikolas-chambers.github.io/salem-site/)** — a tour guide to Massachusetts' Witch City.
+
+---
+
+### 💼 For hire
+
+I like working with cutting-edge technology and turning it into something
+useful for the community, not just another demo. If you need an agent, a CLI, a
+developer tool or something else built on new ground,
+[email me](mailto:nikolasjonchambers@gmail.com) — I'm open to freelance work.
 
 ---
 
